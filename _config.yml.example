@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: UTAU非公式中文站
 subtitle:
 description:
 keywords:
-author: John Doe
-language:
+author: cxm
+language: zh-Hans
 timezone:
 
 # URL
@@ -74,6 +74,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+exclude_generator:
+- index
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
