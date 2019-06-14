@@ -11,4 +11,6 @@ tags:
 
 # 下载链接
 
+**未授权中文站，请前往下载链接下载**
+
 http://blog.sina.com.cn/s/blog_711e86460101ci5f.htm

@@ -9,3 +9,4 @@ public/
 # Custom config
 _config.yml
 !_config.yml.example
+themes/next
